@@ -15,6 +15,10 @@
     "FB_fe74654b6996b195ac5c22eb5fc4b0c8cbc7260963013125883ec0eeea7abbcf": {
       "status": "active",
       "message": "Lisensi aktif"
+    },
+    "FB_0cc1f65c9e0a163de8aa76db2ddb3f4c781a12ab571ff27fbd1d28c5d85c0526": {
+      "expire": "2053-05-24",
+      "sig": "a73f73b39e827c4fabd2a440e5a73d8f71806e7743bd63af0fea36770979b038"
     }
   }
 }
