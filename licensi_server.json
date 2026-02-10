@@ -1,1 +1,16 @@
-
+{
+  "licenses": {
+    "FB_DESKTOP-CONTOH-HWID-1": {
+      "status": "active",
+      "message": "Lisensi Premium Aktif (Lifetime)"
+    },
+    "FB_DESKTOP-CONTOH-HWID-2": {
+      "status": "inactive",
+      "message": "Masa percobaan habis. Hubungi Admin."
+    },
+    "FB_KODE_HWID_SAYA_YANG_ASLI": {
+      "status": "active",
+      "message": "Welcome Owner! Full Access."
+    }
+  }
+}
