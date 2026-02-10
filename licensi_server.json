@@ -15,6 +15,10 @@
     "FB_74df3cc7d8619ce156a761cbb997f39b09fc427e94839e499a93f1a4fd393040": {
       "expire": "2028-11-06",
       "sig": "10ec11f5c9ef0d22b368a09b2f2d3c2d3f93fcf9d89dfeadea6569f9719e8c52"
+    },
+    "FBX-B460-AE43-9C42": {
+      "expire": "2053-06-28",
+      "sig": "fcbed5b662740a509bea6dc03b2a7998d361c7f56c3cc615ef1e38d045f1eb17"
     }
   }
 }
