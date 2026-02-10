@@ -11,6 +11,10 @@
     "FB_KODE_HWID_SAYA_YANG_ASLI": {
       "status": "active",
       "message": "Welcome Owner! Full Access."
+    },
+    "FB_74df3cc7d8619ce156a761cbb997f39b09fc427e94839e499a93f1a4fd393040": {
+      "expire": "2028-11-06",
+      "sig": "10ec11f5c9ef0d22b368a09b2f2d3c2d3f93fcf9d89dfeadea6569f9719e8c52"
     }
   }
 }
